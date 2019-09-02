@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Scott Heggen & Emily Lovell           ****** TODO: CHANGE THIS!! ******
-# username: heggens & lovelle             ****** TODO: CHANGE THIS!! *****
+# Author: Scott Heggen & Emily Lovell           Jeremy Campbell
+# username: heggens & lovelle                   Jeremy Campbell
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
