@@ -143,7 +143,7 @@ else:
 #Sources used for the chinese calendar: https://en.wikipedia.org/wiki/Chinese_zodiac
 # TODO Similar to above, check your friend's year using if conditionals, and print the correct animal for that year
 
-
+#Finished
 ######################################################################
 # (Optional) Task 3
 # TODO Check for compatibility between your birth year and your friend's birth year
