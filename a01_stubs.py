@@ -84,7 +84,7 @@ else:
 # TODO Ask the user for their friend's birth year
 friend_input = input('Friend of the original user, what is your birth year?')
 
-print('You said that your year was ' + user_input + '!')
+print('You said that your year was ' + friend_input + '!')
 print()             #blank line
 
 if user_input == '1988':
