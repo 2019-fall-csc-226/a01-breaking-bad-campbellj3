@@ -22,36 +22,36 @@ user_input = input('What is your birth year?')
 print('You said that your year was ' + user_input + '!')
 print()             #blank line
 
-if user_input == '1988':
+if user_input == '2000':
     #This print statement will determine which animal that the user will receive based on the Chinese calendar.
     print('You were born in the year of the dragon! Too bad you cant breathe fire.')
     print()
 
-elif user_input == '1989':
+elif user_input == '2001':
     print('You were born in the year of the snake! Do you still smell with your nose?')
     print()
 
-elif user_input == '1990':
+elif user_input == '2002':
     print('You were born in the year of the horse! Hopefully you havent been eating hay though.')
     print()
 
-elif user_input == '1991':
+elif user_input == '2003':
     print('You were born in the year of the goat! Have you tried using your horns to solve your problems?')
     print()
 
-elif user_input == '1992':
+elif user_input == '2004':
     print('You were born in the year of the monkey! Are you excellent at climbing trees?')
     print()
 
-elif user_input == '1993':
+elif user_input == '2005':
     print('You were born in the year of the Rooster! I would not advise screaming early in the morning to wake everyone around you.')
     print()
 
-elif user_input == '1994':
+elif user_input == '2006':
     print('You were born in the year of the dog! Please try not to chase your tail in class.')
     print()
 
-elif user_input == '1995':
+elif user_input == '2007':
     print('You were born in the year of the pig! Where are the cows and chickens?')
     print()
 
@@ -87,36 +87,36 @@ friend_input = input('Friend of the original user, what is your birth year?')
 print('You said that your year was ' + friend_input + '!')
 print()             #blank line
 
-if user_input == '1988':
+if user_input == '2000':
     #This print statement will determine which animal that the user will receive based on the Chinese calendar.
     print('You were born in the year of the dragon! Too bad you cant breathe fire.')
     print()
 
-elif user_input == '1989':
+elif user_input == '2001':
     print('You were born in the year of the snake! Do you still smell with your nose?')
     print()
 
-elif user_input == '1990':
+elif user_input == '2002':
     print('You were born in the year of the horse! Hopefully you havent been eating hay though.')
     print()
 
-elif user_input == '1991':
+elif user_input == '2003':
     print('You were born in the year of the goat! Have you tried using your horns to solve your problems?')
     print()
 
-elif user_input == '1992':
+elif user_input == '2004':
     print('You were born in the year of the monkey! Are you excellent at climbing trees?')
     print()
 
-elif user_input == '1993':
+elif user_input == '2005':
     print('You were born in the year of the Rooster! I would not advise screaming early in the morning to wake everyone around you.')
     print()
 
-elif user_input == '1994':
+elif user_input == '2006':
     print('You were born in the year of the dog! Please try not to chase your tail in class.')
     print()
 
-elif user_input == '1995':
+elif user_input == '2007':
     print('You were born in the year of the pig! Where are the cows and chickens?')
     print()
 
